@@ -27,7 +27,6 @@
 		<sonar.host.urlhttp://65.2.179.29:8081/</sonar.host.url>
 		<sonar.login>vijayakumargvr5</sonar.login>
 		<sonar.password>Oneplus@45#</sonar.password> 
->>>>>>> 51944410edafcbd4674571d9f20673235bd59c68
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
