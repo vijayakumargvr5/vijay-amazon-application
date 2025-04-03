@@ -24,7 +24,6 @@
 		<sonar.host.url>http://13.233.120.3:9000/</sonar.host.url>
 		<sonar.login>squ_421c6bd9ee85b86641d32827a8339ca48f574a5d</sonar.login>
 		<!----	<sonar.password>passw0rd</sonar.password>   ----> 
-=======
 		<sonar.host.urlhttp://65.2.179.29:8081/</sonar.host.url>
 		<sonar.login>vijayakumargvr5</sonar.login>
 		<sonar.password>Oneplus@45#</sonar.password> 
