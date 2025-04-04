@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://13.233.120.3:9000/</sonar.host.url>
+		<sonar.host.url>http://13.233.118.140:9000/</sonar.host.url>
 		<sonar.login>squ_421c6bd9ee85b86641d32827a8339ca48f574a5d</sonar.login> 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>amazon Releases Nexus Repository</name>
-	      <url>http://65.2.179.29:8081/repository/vijay-amazon-application/</url>
+	      <url>http://13.232.63.138:8081/repository/vijay-amazon-application/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>amazon Snapshot Nexus Repository </name>
-	      <url>http://65.2.179.29:8081/repository/vijay-amazon-application-snapshot/</url>
+	      <url>http://13.232.63.138:8081/repository/vijay-amazon-application-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
